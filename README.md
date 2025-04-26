@@ -1,11 +1,17 @@
 # Amsi Memory Patch
 
 Type: In-memory runtime patch
+
 Target: AmsiScanBuffer function (inside amsi.dll)
+
 Patch Action: Overwrites function prologue with custom bytes
+
 Patch Payload: Forces the function to immediately return an error code instead of scanning the buffer
+
 Architecture: Supports x64 and x86
+
 Persistence: Temporary (Process-Only non Permenant)
+
 Purpose: Disable AMSI scanning for that process only
 
 This could end up being used for other projects such as in crypter's where it is needed.
