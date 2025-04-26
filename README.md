@@ -32,6 +32,7 @@ jmp rax                ; Jump back (exit early)
 ```
 
 meaning: instead of scanning anything it just immediatly returns an error and windows defender just gives up checking.
+
 Name for technique: AMSI Bypass, AMSI Patch, In-memory AMSI Hook
 
 # Detections
