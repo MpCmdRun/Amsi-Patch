@@ -1,0 +1,6 @@
+C:\Users\miles\source\repos\AmsiScan\AmsiScan\bin\Release\AmsiScan.exe.config
+C:\Users\miles\source\repos\AmsiScan\AmsiScan\bin\Release\AmsiScan.exe
+C:\Users\miles\source\repos\AmsiScan\AmsiScan\obj\Release\AmsiScan.csproj.AssemblyReference.cache
+C:\Users\miles\source\repos\AmsiScan\AmsiScan\obj\Release\AmsiScan.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\AmsiScan\AmsiScan\obj\Release\AmsiScan.exe
+C:\Users\miles\source\repos\AmsiScan\AmsiScan\obj\Release\AmsiScan.pdb
